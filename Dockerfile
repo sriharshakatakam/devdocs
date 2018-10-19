@@ -15,7 +15,6 @@ RUN bundle install --system && \
     rm -rf ~/.gem /root/.bundle/cache /usr/local/bundle/cache
 
 COPY . /devdocs
-
 RUN thor docs:download --all && \
     thor assets:compile && \
     rm -rf /tmp
