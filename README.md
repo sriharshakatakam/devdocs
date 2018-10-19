@@ -145,4 +145,4 @@ I also wish that any documentation file generated using this software be attribu
 
 ## Questions?
 
-If you have any questions, please feel free to ask them on the [mailing list](https://groups.google.com/d/forum/devdocs).
+If you have any questions, please feel free to ask them on the [mailing list](https://groups.google.com/d/forum/devdocs)..
